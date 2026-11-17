@@ -284,7 +284,7 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
   
 ### **Need Help?**
 
-📧 **Email:** [vortex@risshi.me](mailto:vortex@ayushi.me)  
+📧 **Email:** [vortex@ayushi.me](mailto:vortex@ayushi.me)  
 🐛 **Issues:** [GitHub Issues](https://github.com/AyushiTiwari06/vortex-ai/issues)  
 💬 **Discussions:** [GitHub Discussions](https://github.com/AyushiTiwari06/vortex-ai/discussions)  
 
